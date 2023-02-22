@@ -11,6 +11,6 @@ Habilidades: HTML /CSS/ SCSS/ JS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresRSJ)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AndresRSJ)  
+
 
 

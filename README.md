@@ -1,5 +1,5 @@
 ### Hola 👋, ¿Que tal? Mi nombre es Andrés Retamar
-![link](https://github.com/AndresRSJ/Data-profile/banner.png)
+![](https://github.com/AndresRSJ/Data-profile/banner.png)
 
 Frontend Developer con muchas ganas de seguir aprendiendo tecnologías web.
 

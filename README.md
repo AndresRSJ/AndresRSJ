@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hola 👋, ¿Que tal? Mi nombre es Andrés Retamar
+![](https://github.com/AndresRSJ/Data-profile/banner.png)
 
-<!--
-**AndresRSJ/AndresRSJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer con muchas ganas de seguir aprendiendo tecnologías web.
 
-Here are some ideas to get you started:
+Habilidades: JS / HTML / CSS /SCSS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 Estoy aprendiendo JavaScript 
+- 📫 Cómo contactarme: andresretamarsoto12@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AndresRSJ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/andres-retamar-03bb2a262/)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndresRSJ)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AndresRSJ)  
+
+

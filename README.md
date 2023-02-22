@@ -1,9 +1,9 @@
 ### Hola 👋, ¿Que tal? Mi nombre es Andrés Retamar
-![](https://github.com/AndresRSJ/Data-profile/banner.png)
+![link](https://github.com/AndresRSJ/Data-profile/banner.png)
 
 Frontend Developer con muchas ganas de seguir aprendiendo tecnologías web.
 
-Habilidades: JS / HTML / CSS /SCSS
+Habilidades: HTML /CSS/ SCSS/ JS
 
 - 🌱 Estoy aprendiendo JavaScript 
 - 📫 Cómo contactarme: andresretamarsoto12@gmail.com 
